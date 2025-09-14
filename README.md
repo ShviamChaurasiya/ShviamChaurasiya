@@ -5,7 +5,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/shivam-chaurasiya/" target="_blank">
+    <a href="https://www.linkedin.com/in/shivam--chaurasiya/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/ShviamChaurasiya" target="_blank">
@@ -14,7 +14,7 @@
     <a href="mailto:shivam1482@outlook.com">
       <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-D44275?style=for-the-badge&logo=Plex&logoColor=white" alt="Portfolio Badge"/>
+    <a href="https://shivamchaurasiya.space/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-D44275?style=for-the-badge&logo=Plex&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
   ---
@@ -94,9 +94,9 @@
 <td width="50%">
 <h3 align="center">Live Polling & Chat System</h3>
 <div align="center">
-  <a href="YOUR_PROJECT_1_DEMO_LINK" target="_blank">
+  <a href="https://live-polling.shivamchaurasiya.space/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=Vercel&logoColor=white" /> </a>
-  <a href="YOUR_PROJECT_1_REPO_LINK" target="_blank">
+  <a href="https://github.com/ShviamChaurasiya/live-polling-frontend" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   <p>A full-stack real-time polling platform for teachers and students, supporting live interaction for 100+ concurrent users via WebSockets.</p>
   <p>
@@ -108,17 +108,20 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Notes Management App</h3>
+<h3 align="center">ReadHaven</h3>
 <div align="center">
-  <a href="YOUR_PROJECT_2_REPO_LINK" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://read-haven-frontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
   </a>
-  <p>A full-stack notes app with rich-text editing, Google OAuth, and secure credentials, deployed on Render with 99.9% uptime.</p>
-  <br>
+  <a href="https://github.com/ShviamChaurasiya/ReadHavenFrontend" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p>A book discovery and reading list management application. This project secured the First Runner-Up position at Hack the Fest '23.</p>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Quill.js-4FBA93?style=for-the-badge&logo=Quasar&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </p>
 </div>
 </td>
